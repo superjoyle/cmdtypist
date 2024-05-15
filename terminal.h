@@ -1,3 +1,4 @@
+#include <termios.h>
 
 float my_pow(float base, int exp)//mickmicking the pow function
 {
