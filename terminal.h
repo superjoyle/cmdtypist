@@ -1,4 +1,8 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 #include <termios.h>
+#include <unistd.h>
 
 float my_pow(float base, int exp)//mickmicking the pow function
 {
