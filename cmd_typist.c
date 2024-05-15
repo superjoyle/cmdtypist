@@ -15,6 +15,8 @@ Program Size: 2.8MB
 #include<time.h>
 #include<ctype.h>
 #include <unistd.h>
+#include <termios.h>
+
 
 //cmdtypist.c: Implementing the main 
 #include"functions_for_cmd_typist.h"//function prototypes and global variables.
